@@ -62,7 +62,7 @@ print()
 start = time.time()
 # linear search for unsorted list
 num = liniear_search(list, elm)
-print('linear search on unsorted')
+print('linear search on unsorted List')
 print('========')
 
 print(f'{elm} was in the file {num} times')
