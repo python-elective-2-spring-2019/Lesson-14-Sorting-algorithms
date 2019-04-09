@@ -3,6 +3,7 @@ Agenda: 09-04-2019
 
 ## Required reading
 * Required reading for the algorithms we have worked with the last 2 weeks will come ...
+* [Sorting Algorithms](Sorting.pdf)
 
 ### Supplementary reading
 * [Insertion Sort](https://www.youtube.com/watch?v=OGzPmgsI-pQ)
